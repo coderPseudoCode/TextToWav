@@ -1,0 +1,25 @@
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\Notes to Audio Converter.exe.config
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\Notes to Audio Converter.exe
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\Notes to Audio Converter.pdb
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes_to_Audio_Converter.MainWindow.resources
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes_to_Audio_Converter.Properties.Resources.resources
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csproj.GenerateResource.cache
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csproj.CoreCompileInputs.cache
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.exe
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.pdb
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\itextsharp.dll
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\itextsharp.xml
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csproj.CopyComplete
+C:\Users\Pseudo Code\source\repos\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csprojAssemblyReference.cache
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\Notes to Audio Converter.exe.config
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\Notes to Audio Converter.exe
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\Notes to Audio Converter.pdb
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\itextsharp.dll
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\bin\Debug\itextsharp.xml
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csprojAssemblyReference.cache
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes_to_Audio_Converter.MainWindow.resources
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes_to_Audio_Converter.Properties.Resources.resources
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csproj.GenerateResource.cache
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.csproj.CopyComplete
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.exe
+D:\Developed Applications\Visual Studio\Visual C#\Notes to Audio Converter\Notes to Audio Converter\obj\Debug\Notes to Audio Converter.pdb
